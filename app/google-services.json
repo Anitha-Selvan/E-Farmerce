@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208858203595",
+    "firebase_url": "https://e-farmerce.firebaseio.com",
+    "project_id": "e-farmerce",
+    "storage_bucket": "e-farmerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208858203595:android:9ea7a6de794953506f224e",
+        "android_client_info": {
+          "package_name": "com.example.mycart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208858203595-ha8e9f10anrv41k6cn23cd62pthjkhbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Iwu1_WG67zJ56S3u42zZI4cXzF_HupI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208858203595-ha8e9f10anrv41k6cn23cd62pthjkhbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
