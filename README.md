@@ -4,7 +4,7 @@ This application provides assistance to farmers to purchase agricultural require
 1. Clone the repository.
 2. Replace the google-services.json file with your own file.
 3. Replicate the below structure for the consultation part :
-<img src="https://github.com/Anitha-Selvan/E-Farmerce/ss.png">
+<img src="https://github.com/Anitha-Selvan/E-Farmerce/blob/master/ss.png" width="250" height="550">
 4. Run the app.
 
 ![](E-Farmerce.gif)
